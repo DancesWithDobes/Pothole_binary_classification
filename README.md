@@ -46,3 +46,6 @@ After training the model, several evaluation metrics are calculated using the te
 **Precision-Recall Curve:** A plot of precision vs. recall.
 
 **ROC Curve:** A plot of the true positive rate vs. the false positive rate.
+
+
+(Note to potential employeers / interviewers.. it may be easier to use the link in my resume to run the file directly in my colab)
