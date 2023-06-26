@@ -1,5 +1,10 @@
 # Pothole Image Binary Classification
 
+### Link to the Colab Notebook:
+
+https://colab.research.google.com/drive/1IjFBeUM7IEkt-eBMuvvymn9-GPX7B2W0?usp=sharing
+
+
 This project aims to classify images as either pothole or normal (non-pothole) using deep learning techniques. It utilizes the ResNet-50 architecture and employs the PyTorch library for implementation.
 
 
